@@ -1,0 +1,10 @@
+
+# Postgres and PG-admin data
+basic-data-modelling/docker/postgres/data/
+basic-data-modelling/docker/pgadmin/data/
+
+# Env
+.env
+
+# Editor
+.vscode/

@@ -8,3 +8,11 @@ basic-data-modelling/docker/pgadmin/data/
 
 # Editor
 .vscode/
+
+.DS_Store
+
+*.csv
+*.zip
+
+# Kestra storage
+taxi-data/workflow-orchestration/kestra-storage/

@@ -13,6 +13,3 @@ basic-data-modelling/docker/pgadmin/data/
 
 *.csv
 *.zip
-
-# Kestra storage
-taxi-data/workflow-orchestration/kestra-storage/
